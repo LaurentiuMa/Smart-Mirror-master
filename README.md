@@ -41,5 +41,8 @@ replace `weather_api_token` with the token you got from forecast.io
 ## Running
 To run the application run the following command in this folder
 
+```
+python smartmirror.py
+```
 
 
